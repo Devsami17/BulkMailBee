@@ -90,6 +90,9 @@ padding-top: 10px;
     
 }
 @media only screen and (min-width:300px) and (max-width:995px){
+    .how-it-works{
+        flex-wrap:  wrap !important;
+    }
     header .container{
         display: none !important;
     }
