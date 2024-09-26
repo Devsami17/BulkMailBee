@@ -379,3 +379,22 @@ font-family: "Raleway";
 .how-it-works div img{
     border-radius: 6px;
 }
+.video-box video{
+    border-radius: 10px;
+    box-shadow: 0 20px 25px -5px #0000001a, 0 10px 10px -5px #0000000a;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+.section-5 p{
+    font-family: "Raleway";
+    font-weight: 500;
+    margin-top: 15px;
+}
+.section-5 ul li{
+    list-style-type: disc;
+    font-family: "Raleway";
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 10px;
+}
