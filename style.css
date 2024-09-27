@@ -213,6 +213,21 @@ display: none;
     .modal-body div{
         width: 100%;
     }
+    .first-image{
+        position: relative;
+        animation: none !important ;
+        width: 100% !important;
+        }
+        .second-image{
+        position: relative;
+        
+        left:0% !
+        important;
+        width: 100% !important;
+        animation: none !important;
+        
+        }
+
 }
 ul li{
     font-family: "Roboto";
